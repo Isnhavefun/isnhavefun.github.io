@@ -38,6 +38,9 @@ a {
     height: 50px;
     background-color: rgb(39, 39, 211);
     border-bottom: 5px solid darkblue;
+    position: fixed;
+    top: 0;
+    z-index: 10;
 }
 
 .bottom-header a {
